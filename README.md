@@ -1,1 +1,4 @@
-# 27feb
+# zerodha
+# zerodha
+# zerodha
+# zerodha git init git add README.md git commit -m first commit git branch -M main git remote add origin https://github.com/kiranghadage/zerodha.git git push -u origin main
