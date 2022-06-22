@@ -59,6 +59,6 @@ public class PinPageTest extends BaseTest {
 	@Test
 	public void demo()
 	{
-		
+		System.out.println("Hello");
 	}
 }
